@@ -1,0 +1,11 @@
+{
+  "lastName": "Nugraha",
+  "married": true,
+  "age": 30,
+  "address": {
+    "country": "Indonesia",
+    "street": "Jalan belum ada",
+    "city": "Jakarta"
+  },
+  "firstName": "Budi"
+}
